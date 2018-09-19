@@ -1,0 +1,103 @@
+/*-----  BODY ----*/
+
+body {
+    background-color: #CEECF5;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+    
+    
+    
+}
+
+/* HEADER */
+
+
+header {
+   
+    color: rgb(195 51 37);
+    padding: 30px;
+    font-family: 'Love Ya Like A Sister', cursive;
+    
+    
+    
+}
+
+#naProg {
+    color: rgb(44 134 147);
+}
+
+#titulo{
+    font-size: 40px;
+}
+
+.index {
+    
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+
+nav {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+nav ul li {
+    list-style: none;
+    font-size: 24px;
+    padding: 13px;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(21 54 65);
+    
+}
+
+nav ul li a:hover {
+    background-color: rgb(44 134 147);
+    padding: 22px;
+    transition: 0.9s all;
+    color: rgb(240 241 213);
+    border-radius: 15px;
+}
+
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+.back {
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.back a {
+    list-style: none;
+    text-decoration: none;
+    background-color: rgb(241 151 34);
+    font-size: 14px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+footer {
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(9 3 20);
+    color: rgb(240 241 213);
+    font-size: 15px;
+    font-family: 'Anonymous Pro', monospace;
+    
+    
+}
